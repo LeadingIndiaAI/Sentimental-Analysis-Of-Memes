@@ -11,11 +11,11 @@ Our Proposed Method based on Multimodel
 
 We used these to classify the sentiment.
 
-1-Inception V3 for Feature Extraction
+    1-Inception V3 for Feature Extraction
 
-2-Recurrent Nueral Network for Predicting next work using seqeunce
+    2-Recurrent Nueral Network for Predicting next work using seqeunce
 
-3-Feed Forward Network for caption the Image using output of Inception V3 and RNN 
+    3-Feed Forward Network for caption the Image using output of Inception V3 and RNN 
 
 Dataset:
 
