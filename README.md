@@ -6,11 +6,9 @@ In which we are working on two approaches — —
 
 1.Unimodel(Transfer learning) 2. Multimodel
 
-Our Proposed Method:
+Our Proposed Method based on Multimodel
 
-Use of Multimodel
-
-We used these to achieve more accurate results.
+We used these to classify the sentiment.
 
 1-Inception V3 for Feature Extraction
 
