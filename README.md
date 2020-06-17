@@ -17,9 +17,7 @@ We used these to classify the sentiment.
 
     3-Feed Forward Network for caption the Image using output of Inception V3 and RNN 
 
-Dataset:
-
-https://drive.google.com/drive/folders/1CKcUIKK4qzAG-waUuJKhror91tvfTx_9?usp=sharing
+Dataset: https://drive.google.com/drive/folders/1CKcUIKK4qzAG-waUuJKhror91tvfTx_9?usp=sharing
 
 Blog: https://medium.com/@dhanraj0709/sentimental-analysis-of-memes-c1d2b26a7618
 
