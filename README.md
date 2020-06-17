@@ -4,7 +4,8 @@ Our main aim in this project is to find the sentiment of memes.
 
 In which we are working on two approaches — —
 
-1.Unimodel(Transfer learning) 2. Multimodel
+    1.Unimodel(Transfer learning) 
+    2. Multimodel
 
 Our Proposed Method based on Multimodel
 
